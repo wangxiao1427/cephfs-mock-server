@@ -1,0 +1,13 @@
+Flask==1.0.2
+Flask-Migrate==2.3.0
+Flask-Moment==0.6.0
+Flask-SQLAlchemy==2.3.2
+Flask-Script==2.0.6
+Flask-WTF==0.14.2
+Flask-RESTful==0.3.6
+SQLAlchemy==1.2.14
+WTForms==2.2.1
+Werkzeug==0.14.1
+alembic==1.0.3
+blinker==1.4
+itsdangerous==1.1.0
